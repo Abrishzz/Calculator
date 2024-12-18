@@ -143,10 +143,5 @@ The app includes:
 - Widget tests for UI components
 - Integration tests for critical user flows
 
-## Future Improvements
-1. Additional calculator functions (scientific operations)
-2. History export functionality
-3. Custom themes support
-4. Gesture-based interactions
-5. Cloud backup for history
+
 
